@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "drupal/pathauto": "1.13.0",
+        "drupal/pathauto": "1.12.0",
         "drupal/core-recommended": "10.4.1",
         "asm89/stack-cors": "v2.2.0",
         "composer/semver": "3.4.3",
