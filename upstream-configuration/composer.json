@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "drupal/pathauto": "^1.13",
+        "drupal/pathauto": "1.12.0",
         "drupal/core-recommended": "^10"
     },
     "extra": {
